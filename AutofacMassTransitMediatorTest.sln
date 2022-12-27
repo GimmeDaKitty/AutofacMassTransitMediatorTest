@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacMassTransitMediatorTest.Console", "AutofacMassTransitMediatorTest.Console\AutofacMassTransitMediatorTest.Console.csproj", "{28DA7721-34E2-478C-B09F-0B562F6674C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacMassTransitMediatorTest.Infrastructure", "AutofacMassTransitMediatorTest.Infrastructure\AutofacMassTransitMediatorTest.Infrastructure.csproj", "{C36B9A12-3FBB-4630-A257-F822AE29361F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacMassTransitMediatorTest.Core", "AutofacMassTransitMediatorTest.Core\AutofacMassTransitMediatorTest.Core.csproj", "{8398B122-A0B7-4068-97FE-B39345CDB276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacMassTransitMediatorTest.Hardware", "AutofacMassTransitMediatorTest.Hardware\AutofacMassTransitMediatorTest.Hardware.csproj", "{FF8B05F1-435B-48FC-A74F-B32C9FE60936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacMassTransitMediatorTest.Infrastructure.Api", "AutofacMassTransitMediatorTest.Infrastructure.Api\AutofacMassTransitMediatorTest.Infrastructure.Api.csproj", "{C624D1C1-1D5F-498B-BD49-735CD0E34897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DA7721-34E2-478C-B09F-0B562F6674C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DA7721-34E2-478C-B09F-0B562F6674C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DA7721-34E2-478C-B09F-0B562F6674C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DA7721-34E2-478C-B09F-0B562F6674C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36B9A12-3FBB-4630-A257-F822AE29361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36B9A12-3FBB-4630-A257-F822AE29361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36B9A12-3FBB-4630-A257-F822AE29361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36B9A12-3FBB-4630-A257-F822AE29361F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8398B122-A0B7-4068-97FE-B39345CDB276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8398B122-A0B7-4068-97FE-B39345CDB276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8398B122-A0B7-4068-97FE-B39345CDB276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8398B122-A0B7-4068-97FE-B39345CDB276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8B05F1-435B-48FC-A74F-B32C9FE60936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8B05F1-435B-48FC-A74F-B32C9FE60936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8B05F1-435B-48FC-A74F-B32C9FE60936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8B05F1-435B-48FC-A74F-B32C9FE60936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C624D1C1-1D5F-498B-BD49-735CD0E34897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C624D1C1-1D5F-498B-BD49-735CD0E34897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C624D1C1-1D5F-498B-BD49-735CD0E34897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C624D1C1-1D5F-498B-BD49-735CD0E34897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
